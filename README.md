@@ -18,7 +18,8 @@ object programacionConObjetos {
 * Modalidad Mixta
 * Horario comisión **noche**: Martes 18hs.
 * Horario comisión **tarde**: Jueves 14hs.
-* Este cuantrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
+* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
+* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo y Matías Müller
 
 ## Links importantes :monocle_face:
 - [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
